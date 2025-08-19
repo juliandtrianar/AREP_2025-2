@@ -71,9 +71,10 @@ Ejecutamos el comando
 	mvn test
 
 ---
-<img width="1461" height="376" alt="image" src="https://github.com/user-attachments/assets/087a46d2-12eb-44d9-8726-be912d8283c0" />
 
 
+
+<img width="1459" height="379" alt="image" src="https://github.com/user-attachments/assets/1f2ee2d2-3453-4316-acf9-fcd299da1b85" />
 
 ## Construido con
 
