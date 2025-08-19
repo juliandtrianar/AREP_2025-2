@@ -64,6 +64,11 @@ Debería ver en pantalla lo siguiente:
 ![image](https://github.com/user-attachments/assets/ade5225c-01f7-454c-9c10-ad841f82eae5)
 
 ---
+
+probando el funcionamiento
+
+<img width="1898" height="964" alt="image" src="https://github.com/user-attachments/assets/eef962b8-90f2-4db8-8e6c-a77065985c99" />
+
 ### Corriendo test
 
 Ejecutamos el comando
