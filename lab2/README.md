@@ -64,7 +64,8 @@ Las siguientes instrucciones le permitirán descargar una copia y ejecutar la ap
 
 10. Verifique en la linea de comandos que se imprimió el mensaje **Listo para recibir ...**
    
-![alt text](image.png)
+<img width="1326" height="53" alt="image" src="https://github.com/user-attachments/assets/cf9aa3e9-69a6-4efb-b690-147fce0c4de2" />
+
 
 
 
@@ -189,7 +190,7 @@ A continuación se muestra cómo ejecutar las pruebas desde la línea de comando
  ```
 3. Debe mostrarse en pantalla que las pruebas fueron exitosas.
 
-![alt text](image-1.png)
+<img width="1469" height="639" alt="image" src="https://github.com/user-attachments/assets/ff73b350-42ae-4c0a-857f-ddaa0dd38f42" />
 
 
 
