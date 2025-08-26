@@ -32,7 +32,7 @@ Las siguientes instrucciones le permitirán descargar una copia y ejecutar la ap
 1. Ubíquese sobre el directorio donde desea realizar la descarga y ejecute el siguiente comando:
    
      ```
-       git clone https://github.com/juliandtrianar/AREP_2025-1.git
+       git clone https://github.com/juliandtrianar/AREP_2025-2.git
 
      ```
 
