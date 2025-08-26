@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="edu.escuelaing.arep.app.APIControllerTest" time="2.734" tests="4" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="23"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.class.path" value="C:\Users\julia\Desktop\lab2\target\test-classes;C:\Users\julia\Desktop\lab2\target\classes;C:\Users\julia\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\julia\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\julia\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.1\junit-jupiter-api-5.10.1.jar;C:\Users\julia\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\julia\.m2\repository\org\junit\platform\junit-platform-commons\1.10.1\junit-platform-commons-1.10.1.jar;C:\Users\julia\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="America/Bogota"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.vm.specification.version" value="23"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="CO"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-23\bin"/>
+    <property name="sun.java.command" value="C:\Users\julia\AppData\Local\Temp\surefire17330221212757650261\surefirebooter-20250825225036127_3.jar C:\Users\julia\AppData\Local\Temp\surefire17330221212757650261 2025-08-25T22-50-35_481-jvmRun1 surefire-20250825225036127_1tmp surefire_0-20250825225036127_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\julia\Desktop\lab2\target\test-classes;C:\Users\julia\Desktop\lab2\target\classes;C:\Users\julia\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\julia\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\julia\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.1\junit-jupiter-api-5.10.1.jar;C:\Users\julia\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\julia\.m2\repository\org\junit\platform\junit-platform-commons\1.10.1\junit-platform-commons-1.10.1.jar;C:\Users\julia\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\julia"/>
+    <property name="user.language" value="es"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2025-01-21"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-23"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\julia\Desktop\lab2"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\julia\AppData\Local\Temp\surefire17330221212757650261\surefirebooter-20250825225036127_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="23.0.2+7-58"/>
+    <property name="user.name" value="julia"/>
+    <property name="stdout.encoding" value="UTF-8"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\julia\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\julia\AppData\Local\Temp\"/>
+    <property name="java.version" value="23.0.2"/>
+    <property name="user.dir" value="C:\Users\julia\Desktop\lab2"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="UTF-8"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-23\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\dotnet\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Users\julia\Downloads\apache-maven-3.9.9-bin\apache-maven-3.9.9\bin;C:\Program Files\Java\jdk-23\bin;C:\Program Files\MiKTeX\miktex\bin\x64\;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\nodejs\;C:\Users\julia\AppData\Local\Programs\Python\Launcher\;C:\Users\julia\AppData\Local\Microsoft\WindowsApps;C:\Users\julia\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\julia\AppData\Local\Microsoft\WindowsApps;C:\Users\julia\AppData\Roaming\npm;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="stderr.encoding" value="UTF-8"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="23.0.2+7-58"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="67.0"/>
+  </properties>
+  <testcase name="testCacheBehavior" classname="edu.escuelaing.arep.app.APIControllerTest" time="2.013">
+    <system-out><![CDATA[GET Response Code :: 200
+{"Title":"Wish","Year":"2023","Rated":"PG","Released":"22 Nov 2023","Runtime":"95 min","Genre":"Animation, Adventure, Comedy","Director":"Chris Buck, Fawn Veerasunthorn","Writer":"Jennifer Lee, Allison Moore, Chris Buck","Actors":"Ariana DeBose, Chris Pine, Alan Tudyk","Plot":"A young girl wishes on a star and gets a more direct answer than she bargained for when a trouble-making star comes down from the sky to join her.","Language":"English","Country":"United States","Awards":"1 win & 22 nominations total","Poster":"https://m.media-amazon.com/images/M/MV5BN2UyZTAxZDctODI5Mi00MDczLWI4OWMtNTliZjEyMmEyN2FkXkEyXkFqcGc@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"5.6/10"},{"Source":"Rotten Tomatoes","Value":"48%"},{"Source":"Metacritic","Value":"47/100"}],"Metascore":"47","imdbRating":"5.6","imdbVotes":"47,934","imdbID":"tt11304740","Type":"movie","DVD":"N/A","BoxOffice":"$63,973,821","Production":"N/A","Website":"N/A","Response":"True"}
+GET DONE
+]]></system-out>
+  </testcase>
+  <testcase name="testConnectToMoviesAPIMovieNotExist" classname="edu.escuelaing.arep.app.APIControllerTest" time="0.25">
+    <system-out><![CDATA[GET Response Code :: 200
+{"Response":"False","Error":"Movie not found!"}
+GET DONE
+]]></system-out>
+  </testcase>
+  <testcase name="testCacheBehaviorNotMovieFound" classname="edu.escuelaing.arep.app.APIControllerTest" time="0.127">
+    <system-out><![CDATA[Wish se encuentra en Caché
+GET Response Code :: 200
+{"Response":"False","Error":"Movie not found!"}
+GET DONE
+]]></system-out>
+  </testcase>
+  <testcase name="testConnectToMoviesAPI" classname="edu.escuelaing.arep.app.APIControllerTest" time="0.302">
+    <system-out><![CDATA[GET Response Code :: 200
+{"Title":"Inception","Year":"2010","Rated":"PG-13","Released":"16 Jul 2010","Runtime":"148 min","Genre":"Action, Adventure, Sci-Fi","Director":"Christopher Nolan","Writer":"Christopher Nolan","Actors":"Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page","Plot":"A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.","Language":"English, Japanese, French","Country":"United States, United Kingdom","Awards":"Won 4 Oscars. 159 wins & 220 nominations total","Poster":"https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"8.8/10"},{"Source":"Rotten Tomatoes","Value":"87%"},{"Source":"Metacritic","Value":"74/100"}],"Metascore":"74","imdbRating":"8.8","imdbVotes":"2,718,935","imdbID":"tt1375666","Type":"movie","DVD":"N/A","BoxOffice":"$292,587,330","Production":"N/A","Website":"N/A","Response":"True"}
+GET DONE
+]]></system-out>
+  </testcase>
+</testsuite>

@@ -1,0 +1,9 @@
+edu\escuelaing\arep\app\controller\MovieAPI.class
+edu\escuelaing\arep\app\MyServices.class
+edu\escuelaing\arep\app\service\Function.class
+edu\escuelaing\arep\app\model\Product.class
+edu\escuelaing\arep\app\model\ResponseBuilder.class
+edu\escuelaing\arep\app\service\ProductService.class
+edu\escuelaing\arep\app\controller\APIController.class
+edu\escuelaing\arep\app\MySpark.class
+edu\escuelaing\arep\app\model\Request.class
